@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background-image: url("objects/background.png");
+    background-size: cover;      /* 화면 꽉 채움 */
+    background-position: center; /* 가운데 정렬 */
+    background-repeat: no-repeat;
+}
